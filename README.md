@@ -1,4 +1,4 @@
-# Unity_Server_connecte_base
+# Unity_Server_connected_base
  Base project which Unity-Server connected using google.protocol
 
 1. Write Protocol.Proto in Common/protoc-23.3-win64/bin/
